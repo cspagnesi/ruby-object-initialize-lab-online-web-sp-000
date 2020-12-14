@@ -1,5 +1,5 @@
 class Person
-  def talk
+  def talk(Beyonce)
     puts "Hello World!"
   end
   def walk
